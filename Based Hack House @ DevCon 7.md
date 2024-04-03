@@ -187,7 +187,9 @@ Please note: This Code of Conduct is subject to change at the discretion of the 
 
 Sponsors:
 
-To embrace the decentralized spirit, we will integrate MUD to allow anyone on chain to be a sponsor.
+To embrace the decentralized spirit, we will integrate MUD to allow anyone on chain to be a sponsor with base party.
+
+https://base.party.app/party/0x44a19122E4E7661c0e9e82d5E23896E6c0568d4c
 
 Sponsors can reach us on farcaster/pr.
 
