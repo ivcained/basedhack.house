@@ -10,6 +10,10 @@ to become a pivotal sponsor of this transformative experience.
 As we converge in Thailand for DevCon 7 in November 2024, we extend an exclusive invitation
 to Base to join us in fostering the next generation of on-chain innovation.
 
+(better formatted version at : 
+
+https://docs.google.com/file/d/17yd2-Y-OmGLMSOBfAzXK1n5b_4Dnspr0/edit?usp=docslist_api&filetype=msword
+)
 
 - This file is made available on github as an Obsidian Vault.
 
