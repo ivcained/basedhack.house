@@ -1,6 +1,10 @@
 Based Hack House @ DevCon 7
 
 In the vibrant heart of Southeast Asia, a groundbreaking event is set to redefine the boundaries of blockchain development and community collaboration. 
+(better format version: live at 
+
+https://docs.google.com/document/d/17e9lYPmN3S8YKJ4z4fMiTSAH7Z6FZvZ0fce65epXpx0/
+
 
 The Based Hack House Thailand, orchestrated by the Base Builders Community, invites Base to become a pivotal sponsor of this transformative experience. 
 As we converge in Thailand for DevCon 7 in November 2024, we extend an exclusive invitation to Base to join us in fostering the next generation of on-chain innovation.
