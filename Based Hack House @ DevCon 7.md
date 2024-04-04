@@ -1,5 +1,6 @@
 
 # The Based Hack House @ DevCon 7
+![The Based Hack House](https://github.com/ivcained/basedhack.house/assets/86070833/d92cb207-5e61-47db-9dde-e3f5e3e444d8 "The Base Hack House @ DevCon 7, Bangkok, Thailand. Nov, 2024.)
 ## November 1 - 18 2024
 ## Bangkok, Thailand
 
@@ -12,12 +13,12 @@ to become a pivotal sponsor of this transformative experience.</p>
 <p>As we converge in Thailand for DevCon 7 in November 2024, we extend an exclusive invitation
 to Base to join us in fostering the next generation of on-chain innovation.</p>
 
-*(better formatted version at : 
+(better formatted version at : 
 
 https://docs.google.com/file/d/17yd2-Y-OmGLMSOBfAzXK1n5b_4Dnspr0/edit?usp=docslist_api&filetype=msword
-)*
+)
 
-* This file is made available on github as an [https://github.com/ivcained/basedhack.house](Obsidian Vault).
+This file is made available on github as an [Obsidian Vault](https://github.com/ivcained/basedhack.house).
 
 <p>The Based Hack House is an 18-day crucible of creativity, networking, and groundbreaking development, nestled in a breathtaking villa in Bangkok, Thailand.
 </p>
