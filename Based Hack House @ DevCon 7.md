@@ -1,6 +1,6 @@
 
 # The Based Hack House @ DevCon 7
-![The Based Hack House](https://github.com/ivcained/basedhack.house/assets/86070833/d92cb207-5e61-47db-9dde-e3f5e3e444d8 "The Base Hack House @ DevCon 7, Bangkok, Thailand. Nov, 2024)
+![The Based Hack House](https://github.com/ivcained/basedhack.house/assets/86070833/d92cb207-5e61-47db-9dde-e3f5e3e444d8 "The Base Hack House @ DevCon 7, Bangkok, Thailand. Nov, 2024")
 ## November 1 - 18 2024
 ## Bangkok, Thailand
 
