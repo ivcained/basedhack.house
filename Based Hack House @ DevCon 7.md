@@ -14,8 +14,7 @@ to become a pivotal sponsor of this transformative experience.</p>
 to Base to join us in fostering the next generation of on-chain innovation.</p>
 
 (better formatted version at: 
-https://docs.google.com/file/d/17yd2-Y-OmGLMSOBfAzXK1n5b_4Dnspr0/edit?usp=docslist_api&filetype=msword
-)
+<https://docs.google.com/file/d/17yd2-Y-OmGLMSOBfAzXK1n5b_4Dnspr0/>)
 
 This file is made available on github as an [Obsidian Vault](https://github.com/ivcained/basedhack.house).
 
@@ -76,7 +75,7 @@ On-site branding, digital presence, and promotional materials.
 
 [Base Party](https://base.party.app/party/0x44a19122E4E7661c0e9e82d5E23896E6c0568d4c)
 
-<p>Let's embark on this journey together and make DevCon 7 an unparalleled celebration of innovation and community. We look forward to welcoming [Base](https://www.base.org) as a key sponsor of the Based Hack House @ DevCon 7.</p>
+Let's embark on this journey together and make DevCon 7 an unparalleled celebration of innovation and community. We look forward to welcoming [Base](https://www.base.org) as a key sponsor of the Based Hack House @ DevCon 7.
 
 ## Build with other Based Builders @ The Based Hack House, Bangkok, Thailand @ DevCon 7 SEA.
 
@@ -246,7 +245,7 @@ We are looking for sponsorship for the **Hack House and Food + Beverages**
 <p>Our Judges will choose the accepted hackers.
 We invite jesse@base.org to be our first Judge of the Based Hack House.</p>
 
-<p>We plan to integrate [Farcaster](https://www.farcaster.xyz) to accept registrations in frames, those who are not on farcaster will still be able to submit their applications via a form and will be gifted a free Warpcast account.</p>
+We plan to integrate [Farcaster](https://www.farcaster.xyz) to accept registrations in frames, those who are not on farcaster will still be able to submit their applications via a form and will be gifted a free Warpcast account.
 
 <p>Accepted applicants will be sent the **Terms and Conditions**, **Code of Conduct** and any other Declaration as required.</p>
 
@@ -298,7 +297,7 @@ We invite jesse@base.org to be our first Judge of the Based Hack House.</p>
 
 # Sponsors:
 
-<p>To embrace the decentralized spirit, we will integrate [MUD](https://mud.dev) to enable anyone on chain to donate to the Hackathon Prize Pool.</p>
+To embrace the decentralized spirit, we will integrate [MUD](https://mud.dev) to enable anyone on chain to donate to the Hackathon Prize Pool.
 
 <p>Sponsors can reach us by commenting on this doc or opening a pr on the repo: 
 
