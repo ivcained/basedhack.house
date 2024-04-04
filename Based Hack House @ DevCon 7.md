@@ -297,7 +297,7 @@ We plan to integrate [Farcaster](https://www.farcaster.xyz) to accept registrati
 
 # Sponsors:
 
-To embrace the decentralized spirit, we will integrate [MUD](https://mud.dev) to enable anyone on chain to donate to the Hackathon Prize Pool.
+To embrace the decentralized spirit, we will integrate [MUD](https://mud.dev) to enable on chain donations from everyone.
 
 <p>Sponsors can reach us by commenting on this doc or opening a pr on the repo: 
 
