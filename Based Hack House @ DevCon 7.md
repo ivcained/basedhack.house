@@ -25,62 +25,42 @@ https://docs.google.com/file/d/17yd2-Y-OmGLMSOBfAzXK1n5b_4Dnspr0/edit?usp=docsli
 
 #### with an unmatched platform to collaborate, innovate, and excel.
 
-#### Why Sponsor the Based Hack House?
+## Why Sponsor the Based Hack House?
 
-#### ● Visibility and Engagement: Align Base with an elite gathering of the web
+### Visibility and Engagement: Align Base with an elite gathering of the web
 
-#### community's most talented developers and thought leaders.
+## Community's most talented developers and thought leaders.
 
-#### ● Innovation and Talent Discovery: Be at the forefront of groundbreaking
+## Innovation and Talent Discovery: Be at the forefront of groundbreaking projects and ideas that could define the future of the blockchain.
 
-#### projects and ideas that could define the future of the blockchain.
+## Community: Demonstrate Base's commitment to supporting and nurturing the ecosystem.
 
-#### ● Community: Demonstrate Base's commitment to supporting and nurturing the
+## Sponsorship Impact: Your sponsorship will directly contribute to:
 
-#### ecosystem.
+## World-Class Accommodation and Facilities: Ensuring a conducive and inspiring environment for our hackers.
 
-#### Sponsorship Impact: Your sponsorship will directly contribute to:
+## Culinary Delights: Providing nutritious meals to fuel innovation and creativity.
 
-#### ● World-Class Accommodation and Facilities: Ensuring a conducive and
+## Exclusive Perks: From special airdrops of NFTs and Tokens on Base to
 
-#### inspiring environment for our hackers.
+## innovative challenges and prizes, your support will enhance the hackathon experience.
 
-#### ● Culinary Delights: Providing nutritious meals to fuel innovation and creativity.
+## Safety and Security: Guaranteeing a secure environment with securewristbands, access cards, secure chip nfcs and comprehensive safety measures.
 
-#### ● Exclusive Perks: From special airdrops of NFTs and Tokens on Base to
+## Event Highlights:
 
-#### innovative challenges and prizes, your support will enhance the hackathon
+## Collaborate Like a Boss: Forge lasting connections with visionary peers and industry leaders.
 
-#### experience.
+## Innovate Without Limits: Push the boundaries of what's possible on Base with the support of seasoned mentors.
 
-#### ● Safety and Security: Guaranteeing a secure environment with secure
-
-#### wristbands, access cards, secure chip nfcs s and comprehensive safety
-
-#### measures.
-
-#### Event Highlights:
-
-#### ● Collaborate Like a Boss: Forge lasting connections with visionary peers and
-
-#### industry leaders.
-
-#### ● Innovate Without Limits: Push the boundaries of what's possible on Base with the
-
-#### support of seasoned mentors.
-
-#### ● Learn from the Best: Gain invaluable insights and guidance from the Base
-
-#### Team's hand-picked mentors.
+## Learn from the Best: Gain invaluable insights and guidance from the Base Team's hand-picked mentors.
 
 
-#### Sponsorship Opportunities: We offer customizable sponsorship packages to meet
+## Sponsorship Opportunities: 
+We offer customizable sponsorship packages to meet your strategic goals, including but not limited to:
 
-#### your strategic goals, including but not limited to:
-
-#### ● Branding and Visibility: On-site branding, digital presence, and promotional
-
-#### materials.
+##  Branding and Visibility: 
+On-site branding, digital presence, and promotional materials.
 
 #### ● Engagement and Interaction: Opportunities for keynote speeches, workshops,
 
