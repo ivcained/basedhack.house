@@ -1,7 +1,7 @@
 
 # The Based Hack House @ DevCon 7
 ![The Based Hack House](https://github.com/ivcained/basedhack.house/assets/86070833/d92cb207-5e61-47db-9dde-e3f5e3e444d8 "The Base Hack House @ DevCon 7, Bangkok, Thailand. Nov, 2024")
-## November 1 - 18 2024
+### November 1 - 18 2024
 ### Bangkok, Thailand
 
 <p>In the vibrant heart of Southeast Asia, a groundbreaking event is set to redefine the boundaries
@@ -76,7 +76,7 @@ On-site branding, digital presence, and promotional materials.
 
 [Base Party](https://base.party.app/party/0x44a19122E4E7661c0e9e82d5E23896E6c0568d4c)
 
-<p>Let's embark on this journey together and make DevCon 7 an unparalleled celebration of innovation and community. We look forward to welcoming [Base](https://www.base.org/) as a key sponsor of the Based Hack House @ DevCon 7.</p>
+<p>Let's embark on this journey together and make DevCon 7 an unparalleled celebration of innovation and community. We look forward to welcoming [Base](https://www.base.org) as a key sponsor of the Based Hack House @ DevCon 7.</p>
 
 ## Build with other Based Builders @ The Based Hack House, Bangkok, Thailand @ DevCon 7 SEA.
 
@@ -104,7 +104,8 @@ your creative spark and push the boundaries of what's possible on Base.
 
 * **Dates to Remember:** November 9th to November 18th, 2024. (Subject to Change)
 * **Location:** A luxurious villa in Thailand (exact address revealed to accepted participants)
-**[DevCon 7 Venue](https://devcon.org/en/)** : ```60 Ratchadaphisek Rd, Khlong Toei, Bangkok 10110, Thailand.```
+**[DevCon 7 Venue](https://devcon.org/en/)** : 
+```60 Ratchadaphisek Rd, Khlong Toei, Bangkok 10110, Thailand.```
 * **Who Makes the Cut?** This exclusive event awaits a select group of talented hackers.
 Applications open soon and will leverage gas-less attestations on chain.
 
@@ -159,13 +160,13 @@ channels for more information and follow us for the latest updates!</p>
 * 8: Gmail
 * 9: OBS for Streaming
 
-## **Equipment:
+## **Equipment:**
 
-***Video:***
+### **Video:**
 * 1: Canon 5D Mark III
 * 2: Go Pro / Insta 360
 
-## **Audio:**
+### **Audio:**
 
 * 1: Zoom H4N
 * 2: Rode Wireless
@@ -177,8 +178,8 @@ channels for more information and follow us for the latest updates!</p>
 
 * 8:00 AM: Arrival and Registration
 * 9:00 AM: Welcome Address and Introduction to the Based Hack House Thailand
-* 10:00 AM: Icebreaking w [https://app.icebreaker.xyz/ivc](icebreaker.xyz)
-* 11:00 AM: Introduction to Base 
+* 10:00 AM: Icebreaking w [icebreaker.xyz](https://icebreaker.xyz/ivc)
+* 11:00 AM: Hacking on Base 
 * 12:00 PM: Lunch Break
 * 1:00 PM: Hackathon Begins
 * 7:00 PM: Dinner
@@ -191,8 +192,7 @@ channels for more information and follow us for the latest updates!</p>
 * 12:00 PM: Lunch Break
 * 1:00 PM: Hacking’ Continues
 * 6:00 PM: Evening Snack Break
-* 7:00 PM: Group Discussions and Mentoring Sessions
-Followed by Dinner
+* 7:00 PM: Group Discussions and Mentoring Sessions Followed by Dinner
 * 9:00 PM: End of the Day
 
 **November 18, 2024:**
@@ -217,7 +217,7 @@ Ratchadaphisek Rd, Khlong Toei, Bangkok 10110, Thailand).</p>
 ## Cost:
 
 <p>Based on out average searches across airbnb and other sources online, we expect the house
-bill for the 18 days to be estimated around **7000 - 10000 USD including catering.**</p>
+bill for the 18 days to be estimated around ~ 7000 - 10000 USD including catering.</p>
 
 We are looking for sponsorship for the **Hack House and Food + Beverages**
 
@@ -230,7 +230,7 @@ We are looking for sponsorship for the **Hack House and Food + Beverages**
 
 ## Distance to main venue [QSNCC](https://qsncc.com/en/about/at-a-glance/):
 
-* We are actively looking at more options and will be updating this section.*
+```We are actively looking at more options and will be updating this section.```
 
 ### Option 2
 
