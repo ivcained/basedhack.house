@@ -25,7 +25,7 @@ This initiative is designed to amplify the talents of 15-20 select hackers, prov
 
 ## Why Sponsor the Based Hack House?
 
-* **Visibility and Engagement:** Align Base with an elite gathering of the web
+* **Visibility and Engagement:** Align Base with an elite gathering of the onchain community's most talented developers, and thought leaders
 
 * **Innovation and Talent Discovery:** Be at the forefront of groundbreaking projects and ideas that could define the future of the blockchain.
 
