@@ -14,26 +14,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Based Hack House @ DevCon 7.md",
+                "file": "Sponsorship Opportunities.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "ec24bbdd009ea94f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "5e68510e368ae039",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -117,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Based Hack House @ DevCon 7.md",
+                "file": "Sponsorship Opportunities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Based Hack House @ DevCon 7.md",
+                "file": "Sponsorship Opportunities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Based Hack House @ DevCon 7.md"
+                "file": "Sponsorship Opportunities.md"
               }
             }
           }
@@ -180,9 +164,9 @@
   },
   "active": "91b996896b9876b5",
   "lastOpenFiles": [
+    "Based Hack House @ DevCon 7.md",
     "README.md",
     "Sponsorship Opportunities.md",
-    "Based Hack House @ DevCon 7.md",
     "lime call.md"
   ]
 }
