@@ -6,6 +6,7 @@
       {
         "id": "ca6f2a95b59342c6",
         "type": "tabs",
+        "dimension": 68.71827411167513,
         "children": [
           {
             "id": "91b996896b9876b5",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Based Hack House @ DevCon 7.md",
+                "file": "Sponsorship Opportunities.md",
                 "mode": "source",
                 "source": false
               }
@@ -24,6 +25,7 @@
       {
         "id": "53ba467b8066b891",
         "type": "tabs",
+        "dimension": 31.281725888324875,
         "children": [
           {
             "id": "62758bb482360e79",
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Based Hack House @ DevCon 7.md",
+                "file": "Sponsorship Opportunities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Based Hack House @ DevCon 7.md",
+                "file": "Sponsorship Opportunities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Based Hack House @ DevCon 7.md"
+                "file": "Sponsorship Opportunities.md"
               }
             }
           }
@@ -160,8 +162,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62758bb482360e79",
+  "active": "91b996896b9876b5",
   "lastOpenFiles": [
-    "Based Hack House @ DevCon 7.md"
+    "Based Hack House @ DevCon 7.md",
+    "README.md",
+    "Sponsorship Opportunities.md",
+    "lime call.md"
   ]
 }

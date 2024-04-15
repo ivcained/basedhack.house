@@ -65,7 +65,7 @@ Providing nutritious meals to fuel innovation and creativity.
 From special airdrops of NFTs and Tokens on Base to innovative challenges and prizes, your support will enhance the hackathon experience.
 
 * **Safety and Security:** 
-Guaranteeing a secure environment with securewristbands, access cards, secure chip nfcs and comprehensive safety measures.
+Guaranteeing a secure environment with secure wrist bands, access cards, secure chip nfcs and comprehensive safety measures.
 
 ## Event Highlights:
 
@@ -78,7 +78,7 @@ Push the boundaries of what's possible on Base with the support of seasoned ment
 * **Learn from the Best:** 
 Gain invaluable insights and guidance from the Base Team's hand-picked mentors.
 
-## Sponsorship Opportunities: 
+## [[Sponsorship Opportunities]] 
 
 We offer customizable sponsorship packages to meet your strategic goals, including but not limited to:
 
