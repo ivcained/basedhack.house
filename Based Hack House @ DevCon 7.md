@@ -13,7 +13,7 @@ to become a pivotal sponsor of this transformative experience.</p>
 <p>As we converge in Thailand for DevCon 7 in November 2024, we extend an exclusive invitation
 to Base to join us in fostering the next generation of on-chain innovation.</p>
 
-(Gdoc at: 
+(Google Doc version at: 
 <https://docs.google.com/file/d/17yd2-Y-OmGLMSOBfAzXK1n5b_4Dnspr0/>)
 
 This file is made available on github as an [Obsidian Vault](https://github.com/ivcained/basedhack.house).
@@ -23,9 +23,29 @@ This file is made available on github as an [Obsidian Vault](https://github.com/
 
 This initiative is designed to amplify the talents of 15-20 select hackers, providing them with an unmatched platform to collaborate, innovate, and excel.
 
+## Current List of Judges / Mentors / Sponsors Involved: 
+
+* @jessepollak
+* @rish
+* @j4ck.eth
+* @itai
+* @ace
+* @cameron
+* @web3pm
+* @dangerwillrobin
+* @binji.eth
+* @wake
+* @nounishprof
+* @six
+* @jackjack.eth
+* @wbnns
+* @0xsmallbrain
+* @oxb
+* @darylx
+
 ## Why Sponsor the Based Hack House?
 
-* **Visibility and Engagement:** Align Base with an elite gathering of the onchain community's most talented developers, and thought leaders
+* **Visibility and Engagement:** Align Base with an elite gathering of the web
 
 * **Innovation and Talent Discovery:** Be at the forefront of groundbreaking projects and ideas that could define the future of the blockchain.
 
